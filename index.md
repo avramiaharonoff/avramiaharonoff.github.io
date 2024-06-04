@@ -1,8 +1,8 @@
 ---
 layout: frontpage
 title: Avrami Aharonoff
-description: I am a PhD candidate at New York University studying the evolution of dosage compensation in nematodes. 
-keywords: evolution, dosage compensation, nematodes, condensin, SMC, TAD, Hi-C
+description: I am a PhD candidate at New York University 
+keywords: evolution, dosage compensation, nematodes, condensin, SMC, TAD, HiC
 ---
 
 I am a PhD candidadate in Sevinç Ercan's laboratory at New York University studying the evolution of dosage compensation mechanisms. I use phylogenetics and functional genomics to understand how dosage compensation changes in clades with a shared ancestral set of hetermorphic sex chromosomes. I used nematodes as my model, anchoring my work in the well characterized SMC mechanism described in Caenorhabditi elegans.
@@ -25,7 +25,7 @@ I am a PhD candidadate in Sevinç Ercan's laboratory at New York University stud
         <div class="span2">
         <a href="../assets/headshot.jpg">
             <img src="../assets/headshot.jpg"
-                  title="Blue Ham" alt="Blue Ham"/></a>
+                  title="Avrami Aharonoff" alt="Avrami Aharonoff"/></a>
         </div>
     </div>
 </div>
