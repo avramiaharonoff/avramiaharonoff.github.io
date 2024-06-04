@@ -7,8 +7,6 @@ keywords: evolution, dosage compensation, nematodes, condensin, SMC, TAD, HiC
 
 I am a PhD candidadate in Sevinç Ercan's laboratory at New York University studying the evolution of dosage compensation mechanisms. I use phylogenetics and functional genomics to understand how dosage compensation changes in clades with a shared ancestral set of hetermorphic sex chromosomes. I used nematodes as my model, anchoring my work in the well characterized SMC mechanism described in Caenorhabditi elegans.
 
-[curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
-
 
 ---
 
