@@ -31,7 +31,6 @@ I am a PhD candidadate in Sevinç Ercan's laboratory at New York University stud
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/assets/CV.pdf">cv</a></li>
           <li><a href="https://github.com/avramiaharonoff">GitHub</a></li>
           <li><a href="https://twitter.com/Avrami_A">Twitter (@Avrami_A)</a></li>
       </ul>
