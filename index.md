@@ -35,7 +35,7 @@ I am a PhD candidadate in Sevinç Ercan's laboratory at New York University stud
       <ul class="nav">
           <li><a href="{{ BASE_PATH }}/assets/CV.pdf">cv</a></li>
           <li><a href="https://github.com/avramiaharonoff">GitHub</a></li>
-          <li><a href="https://twitter.com/Avrami_A">Twitter (@dog_feelings)</a></li>
+          <li><a href="https://twitter.com/Avrami_A">Twitter (@Avrami_A)</a></li>
       </ul>
   </div>
 </div>
